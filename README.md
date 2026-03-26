@@ -1,2 +1,4 @@
 # Palvelinten_Hallinta
-Haaga-Heliam Palvelinten hallinta kurssi
+Haaga-Helian Palvelinten hallinta kurssi
+
+JeeJippii
